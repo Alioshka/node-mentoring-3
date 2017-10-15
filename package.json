@@ -1,0 +1,21 @@
+{
+  "name": "hometask3",
+  "version": "1.0.0",
+  "description": "home task 3",
+  "main": "index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=6.9.1",
+    "npm": "3.*"
+  },
+  "keywords": [],
+  "author": "mentor",
+  "license": "EPAM license",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
